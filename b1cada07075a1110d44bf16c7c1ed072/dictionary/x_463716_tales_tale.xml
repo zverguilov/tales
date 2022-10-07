@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a95bde47075a1110d44bf16c7c1ed0ca" label="Tale" max_length="40" name="x_463716_tales_tale" type="collection">
+        <element label="Author" max_length="32" name="author" reference="sys_user" type="reference"/>
+        <element label="Initial fragment" max_length="5000" name="initial_fragment" type="html"/>
+        <element label="Locked" max_length="40" name="locked" type="boolean"/>
+        <element label="Title" max_length="256" name="title" type="string_full_utf8"/>
+        <index name="index">
+            <element name="author"/>
+        </index>
+    </element>
+</database>

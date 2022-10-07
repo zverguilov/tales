@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>zdravko.verguilov</sys_created_by>
+        <sys_created_on>2022-10-07 07:17:36</sys_created_on>
+        <sys_id>b1bb5687075a1110d44bf16c7c1ed088</sys_id>
+        <sys_name>x_463716_tales_tale.x_463716_tales.tale_user</sys_name>
+        <sys_package display_value="Tales of the Wise" source="x_463716_tales">b1cada07075a1110d44bf16c7c1ed072</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tales of the Wise">b1cada07075a1110d44bf16c7c1ed072</sys_scope>
+        <sys_security_acl display_value="x_463716_tales_tale">3dbb5687075a1110d44bf16c7c1ed084</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_b1bb5687075a1110d44bf16c7c1ed088</sys_update_name>
+        <sys_user_role display_value="x_463716_tales.tale_user" name="x_463716_tales.tale_user">9dbbde07075a1110d44bf16c7c1ed022</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

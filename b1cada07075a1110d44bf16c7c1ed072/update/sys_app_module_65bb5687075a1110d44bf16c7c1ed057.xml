@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Tale">25bb5687075a1110d44bf16c7c1ed053</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Tales</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_463716_tales_tale</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_463716_tales.tale_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>zdravko.verguilov</sys_created_by>
+        <sys_created_on>2022-10-07 07:17:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>65bb5687075a1110d44bf16c7c1ed057</sys_id>
+        <sys_name>Tales</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Tales of the Wise" source="x_463716_tales">b1cada07075a1110d44bf16c7c1ed072</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tales of the Wise">b1cada07075a1110d44bf16c7c1ed072</sys_scope>
+        <sys_update_name>sys_app_module_65bb5687075a1110d44bf16c7c1ed057</sys_update_name>
+        <timeline_page/>
+        <title>Tales</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

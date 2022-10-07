@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d23ddac7075a1110d44bf16c7c1ed008" label="Tale fragment" max_length="40" name="x_463716_tales_tale_fragment" type="collection">
+        <element label="Author" max_length="32" name="author" reference="sys_user" type="reference"/>
+        <element label="Body" max_length="5000" name="body" type="html"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Tale" max_length="32" name="tale" reference="x_463716_tales_tale" type="reference"/>
+        <index name="index">
+            <element name="author"/>
+        </index>
+        <index name="index2">
+            <element name="tale"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="title" label="Title" language="en" table="x_463716_tales_tale">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>title</element>
+            <help/>
+            <hint/>
+            <label>Title</label>
+            <language>en</language>
+            <name>x_463716_tales_tale</name>
+            <plural>Titles</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>zdravko.verguilov</sys_created_by>
+            <sys_created_on>2022-10-07 07:21:34</sys_created_on>
+            <sys_name>Title</sys_name>
+            <sys_package display_value="Tales of the Wise" source="x_463716_tales">b1cada07075a1110d44bf16c7c1ed072</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Tales of the Wise">b1cada07075a1110d44bf16c7c1ed072</sys_scope>
+            <sys_update_name>sys_documentation_x_463716_tales_tale_title_en</sys_update_name>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
